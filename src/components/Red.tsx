@@ -1,4 +1,3 @@
-import * as React from "react";
 import Nav from "./Nav";
 import common from "../styles/common.module.css";
 // _____________________________________________________________________________

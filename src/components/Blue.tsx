@@ -1,4 +1,3 @@
-import * as React from "react";
 import Nav from "./Nav";
 import shared from "../styles/shared.module.css";
 // _____________________________________________________________________________

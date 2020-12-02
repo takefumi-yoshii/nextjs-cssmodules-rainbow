@@ -1,13 +1,7 @@
-import * as React from "react";
 import Link from "next/link";
 // _____________________________________________________________________________
 //
-interface Props {
-  className?: string;
-}
-// _____________________________________________________________________________
-//
-const Component = (props: Props) => (
+const Component = () => (
   <ul>
     <li>
       <Link href="/">
